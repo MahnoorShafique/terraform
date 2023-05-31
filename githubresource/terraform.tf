@@ -1,7 +1,7 @@
 #any cloud provider
 
 provider "github"{
- token=
+ token="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"
 }
 #name repo in github will be created using name
 #terraform-first-repo terraform will acess this repo in code using this name
